@@ -11,16 +11,8 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://share.maimaigou88.top/static/download/ystr.ipa</string>
+                    <string>http://download.010bjjl.com/static/download/ystr.ipa</string>
                 </dict>
-                <dict>
-					        <key>kind</key>
-					        <string>display-image</string>
-					        <key>needs-shine</key>
-					        <false/>
-					        <key>url</key>
-					        <string>http://share.maimaigou88.top/static/img/app_logo.png</string>
-				        </dict>
             </array>
             <key>metadata</key>
             <dict>
